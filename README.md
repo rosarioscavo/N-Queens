@@ -1,7 +1,5 @@
-# Progetto Intelligenza Artificiale 2022/2023
-## N-Queens Problem
-
-### Author: Rosario Scavo
+# Artificial Intelligence 2022/2023 - N Queens Problem
+## Author: Rosario Scavo
 
 
 This project is part of the Artificial Intelligence course for the academic year 2022/2023. It explores various methods to solve the N-Queens problem, including Random Search, Backtracking, Hill-Climbing, Simulated Annealing, and Genetic Algorithms. Each method is evaluated for its efficiency and effectiveness in finding solutions.
